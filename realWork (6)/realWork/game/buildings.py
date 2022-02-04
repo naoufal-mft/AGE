@@ -1,6 +1,5 @@
 import pygame as pg
 
-from realWork.game import resource_manager
 
 
 class Castle:
